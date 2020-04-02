@@ -1,7 +1,7 @@
 # Gaze-based Web Browser
 A Gaze-Based Web Browser with Multiple Methods for Link Selection
 
-This software was originally developed by Matteo Casarini for his master's thesis in Computer Engineering at the University of Pavia, Department of Electrical, Computer and Biomedical Engineering, Italy (thesis title "Implementation of a web browser based on eye tracking for hands-free navigation, supervisor Prof. Marco Porta).
+This software was originally developed by Matteo Casarini for his master's thesis in Computer Engineering at the University of Pavia, Department of Electrical, Computer and Biomedical Engineering, Italy (thesis title "Implementation of a web browser based on eye tracking for hands-free navigation, supervisor Prof. Marco Porta, February 2020).
 ...
 
 ## Requirements
