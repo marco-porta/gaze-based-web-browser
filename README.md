@@ -18,8 +18,9 @@ Both TOBII SDK and GECKO can be directly imported in VisualStudio as NuGet packa
 If you use this code please cite our work:
 ```
 M. Casarini, M. Porta, P. Dondi (2020), 
-"A Gaze-Based Web Browser with Multiple Methods for LinkSelection" 
-Proceedings of COGAIN2020, accepted to appear
+"A Gaze-Based Web Browser with Multiple Methods for LinkSelection". 
+In Adjunct Proceedings of the Symposium on Eye Tracking Research and Applications (ETRA 2020), 
+Stuttgart, Germany, June 2–5, 2020, 8 pages, https://doi.org/10.1145/3379157.3388929.
 ```
 
 ## Licence
